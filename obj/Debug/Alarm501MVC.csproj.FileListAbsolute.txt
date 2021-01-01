@@ -1,0 +1,11 @@
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.csprojAssemblyReference.cache
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.AlarmForm.resources
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.EditForm.resources
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.Properties.Resources.resources
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.csproj.GenerateResource.cache
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.csproj.CoreCompileInputs.cache
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\bin\Debug\Alarm501MVC.exe.config
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\bin\Debug\Alarm501MVC.exe
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\bin\Debug\Alarm501MVC.pdb
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.exe
+C:\Users\18284\source\repos\regsh-CW\Alarm501MVC\obj\Debug\Alarm501MVC.pdb
